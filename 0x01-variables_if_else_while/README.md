@@ -1,1 +1,1 @@
-Positive anything is better than negative nothing
+assign a random number to the variable
