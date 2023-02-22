@@ -1,19 +1,19 @@
 #include "main.h"
 /**
- * main - print _purchar
+ * main - print _putchar
  * Return: 0
  */
 
 int main(void)
 {
-_purchar('_');
-_purchar('p');
-_purchar('u');
-_purchar('t');
-_purchar('c');
-_purchar('h');
-_purchar('a');
-_purchar('r');
-_purchar('\n');
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 return (0);
 }
